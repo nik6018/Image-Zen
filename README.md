@@ -1,6 +1,6 @@
 # Image-Zen
 
-A Basic Flickr client which uses the RESTFUL endpoints of the Flickr API 
+A Basic Flickr client which uses the RESTFUL endpoints of the Flickr API. 
 The App has 3 Screens :  Interesting Photos, Search and Favourites.
 
 ## Interesting Photos
