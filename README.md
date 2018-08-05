@@ -6,6 +6,7 @@ The App has 3 Screens :  Interesting Photos, Search and Favourites.
 ## Interesting Photos
 
 Here the some random interesting photos from the Flickr API are fetched.
+[Image for Interesting Photos Screen](img/interesting)
 
 ## Search
 
