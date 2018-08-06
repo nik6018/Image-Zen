@@ -5,25 +5,29 @@ The App has 3 sections :  Interesting Photos, Search and Favourites.
 
 The Application heavliy uses the UICollectionView, UICollectionViewFlowLayout and Custom UICollectionViewCell for layouts.
 
+It's an universal app which supports all iPhone screen sizes including the iPhone X.
+
 ## APP Sections
 
 ### Interesting Photos
 
-Random interesting photos from the Flickr API are downloaded, which are updated almost daily.
+Random interesting photos from the Flickr API, which are updated almost daily.
+Can save any of the above image to the device.
+
 <p align="left">
   <img src="img/interesting.png" width="250" title="Interesting Photos">
 </p>
 
 ### Search
 
-You can search for any image that may be available in the Flickr datasource and save it on your device.
+Search for any image that may be available in the Flickr database and save it on your device.
 <p align="left">
   <img src="img/search.png" width="250" title="Search">
 </p>
 
 ### Favourites
 
-Favourites section allows you to view any saved image from the Search or Interesting Photos section.
+Favourites section provides a grid view of all the saved images from the Interesting or Search section.
 <p align="left">
   <img src="img/favourite.png" width="250" title="Favourite">
 </p>
