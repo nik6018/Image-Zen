@@ -44,3 +44,5 @@ For image caching the App uses the Alamofire Image Pod, which caches images upto
 auto purging mechanism reduces the cache size upto 60MB.
 Once the images are downloaded from the Flickr's servers they are added to the cache and if the App tries to fetch the same image
 again instead of fetching it over the network the App load's the image from the cache.
+
+##### Note : If you are downloading the project, before running make sure to add your own API key in the FlickrAPI.swift file
